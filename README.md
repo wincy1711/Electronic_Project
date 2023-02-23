@@ -16,7 +16,7 @@ Electrnic Design Project
   <br />![01205231_Final_pic2](https://user-images.githubusercontent.com/83958622/220805836-d90d41e8-663a-437e-a60a-cfa876b591e3.png)
   
 - 555_Badge_gerbers/
-  : Design PCB with 555 timer
+  : Design PCB with 555 timer in KiCAD
   <br /> Front
   <br />![555_timer_pic1](https://user-images.githubusercontent.com/83958622/220806177-090064cc-f850-4dc1-9f7a-222bac094158.png)
   <br /> PCB

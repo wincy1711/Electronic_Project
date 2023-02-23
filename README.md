@@ -17,7 +17,10 @@ Electrnic Design Project
   
 - 555_Badge_gerbers/
   : Design PCB with 555 timer
-
+  <br /> Front
+  <br />![555_timer_pic1](https://user-images.githubusercontent.com/83958622/220806177-090064cc-f850-4dc1-9f7a-222bac094158.png)
+  <br /> PCB
+  <br />![555_timer_pic2](https://user-images.githubusercontent.com/83958622/220806217-3a6f3654-6c78-4122-aeb2-83add5ca2db5.png)
 
 
 
